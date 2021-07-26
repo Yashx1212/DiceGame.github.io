@@ -9,7 +9,13 @@ container {
     display: inline-block;
   
   }
-  
+   button{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    display: inline-block ;
+  }  
+
+
   body {
     background-color: #393E46;
   }
